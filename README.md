@@ -1,3 +1,4 @@
+Feito por: Rogério e Bernardo
 # Teste de APIs
 
 Projeto simples feito com PHP, JavaScript e CSS.
