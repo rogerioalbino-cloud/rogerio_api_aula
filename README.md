@@ -1,18 +1,14 @@
-# Brasil Agora
+# Teste de APIs
 
-Aplicação didática em PHP, JavaScript e CSS para consultar duas APIs públicas.
+Projeto simples feito com PHP, JavaScript e CSS.
 
-## APIs
+APIs usadas:
 
-- IBGE Localidades: municípios por estado
-- Open-Meteo: clima atual por cidade
+- IBGE Localidades
+- Open-Meteo
 
-## Execução
-
-Coloque a pasta em `C:\xampp\htdocs\api_rogerio`, inicie o Apache e acesse:
+Coloque a pasta no `htdocs`, inicie o Apache e acesse:
 
 ```text
 http://localhost/api_rogerio/
 ```
-
-Não requer banco de dados, chave de API ou instalação de dependências.
